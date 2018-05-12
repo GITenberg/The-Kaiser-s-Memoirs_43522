@@ -1,0 +1,46 @@
+_repo: The-Kaiser-s-Memoirs_43522
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ybarra, T. R. (Thomas Russell)
+    alias: Ybarra, Thomas Russell
+    birthdate: 1880
+    deathdate: 1971
+    gutenberg_agent_id: '43688'
+    url: http://www.gutenberg.org/2009/agents/43688
+covers:
+- cover_type: archival
+  image_path: 43522-h/images/cover.jpg
+creator:
+  author:
+    agent_name: William II, German Emperor
+    aliases:
+    - Friedrich Wilhelm Viktor Albert, German Emperor
+    - Wilhelm II, German Emperor
+    birthdate: 1859
+    deathdate: 1941
+    gutenberg_agent_id: '42274'
+    url: http://www.gutenberg.org/2009/agents/42274
+    wikipedia: http://en.wikipedia.org/wiki/William_II,_German_Emperor
+description: ''
+gutenberg_issued: '2013-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43522'
+  lccn: '22021224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'William II, German Emperor, 1859-1941'
+- !lcsh 'World War, 1914-1918'
+- !lcc 'DD'
+- !lcsh 'Germany -- Politics and government -- 1888-1918'
+tableOfContents: Bismarck -- Caprivi -- Hohenlohe -- Bülow -- Bethmann -- My co-workers
+  in the administration -- Science and art -- My relations with the church -- Army
+  and navy -- The outbreak of war -- The Pope and peace -- End of the war and my abdication
+  -- The enemy tribunal and the neutral tribunal -- The question of guilt -- The revolution
+  and Germany's future.
+title: The Kaiser's Memoirs
+url: http://www.gutenberg.org/ebooks/43522
