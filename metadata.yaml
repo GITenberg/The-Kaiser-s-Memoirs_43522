@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42274
     wikipedia: http://en.wikipedia.org/wiki/William_II,_German_Emperor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43522#The-Kaiser-s-Memoirs
 gutenberg_issued: '2013-08-22'
 gutenberg_type: Text
 identifiers:
